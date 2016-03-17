@@ -1,0 +1,159 @@
+.bg
+{
+	background-color:#CCC;
+}
+
+.logo
+{
+	
+	display:inline;
+	height:59px;
+	margin-top:-39px;
+	margin-left: 29px;
+	
+}
+.logoimg
+{
+	height:20px;
+	margin-left:8px;
+	margin-top:1px;
+}
+.search-box
+{
+	width:45%;
+	
+	margin-top:-40px;
+	margin-left:220px;
+	border-radius: 0%;
+
+}
+
+.search-icon
+{
+	width:20px;
+	height:20px;
+}
+.btn83u
+{
+    vertical-align: middle;
+    width:65px;
+    border-radius: 1px;
+    border:transparent;
+    box-shadow: 0 0 1px 0 black;
+    margin-left:662px;
+    margin-top:-11px;
+    height: 27px;
+    padding-bottom: 3px;
+}
+
+.bell
+{
+	height:30px;
+	float:right;
+	
+	margin-top: -32px;
+	margin-right: 80px;
+}
+.btn-my
+{
+	box-shadow: 0 0 1px 0 black ;
+	float:right;
+	height:30px;
+	border-radius: 1px;
+	background-color: #f2f2f2;
+	margin-right:100px;
+	margin-top: -31px;
+	padding-top: -17px;
+	text-align: center;
+	line-height: 5px;
+	font-family: arial;
+	color:#4d4d4d;
+}
+.userPic
+{
+	height:40px;
+	border-radius:50%;
+	float:right;
+	margin-top: -39px;
+	margin-right: 15px;
+}
+.navcol
+{
+	background-color: white;
+	box-shadow: 0 0 1px 0 #d9d9d9 ;
+}
+
+.btnlen
+{
+	width:60px;
+	background-color: #f2f2f2;
+	box-shadow: 0 0 1px 0 #d9d9d9 ;
+}
+.vidsize
+{
+	margin-left:-67px;
+	box-shadow: 0 0 4px 0 #d9d9d9 ;	
+}
+.viddetail
+{
+	margin-bottom:600px;
+}
+
+.cardPic
+{
+	width:50px;
+	height:50x;
+	background-color: #ff4d4d;
+	margin-left: 20px;
+}
+.cardshadow
+{
+	box-shadow: 0 0 4px 0 #d9d9d9 ;
+	margin-left:-66px;
+	padding-bottom: 15px;
+}
+
+.rightcard
+{
+	box-shadow: 0 0 4px 0 #d9d9d9 ;
+	padding: 10px;
+}
+
+.tex{
+	position:absolute;
+	margin-left: 73px;
+	margin-top:-54px;
+	font-weight: bold;
+}
+.btnMy
+{
+	height:14px;
+	width:10px;
+	line-height:10px;
+	vertical-align: middle;
+	margin-left: 73px;
+	margin-top:-56px;
+}
+.bg23
+{
+	background-color: red;
+	color:white;
+}
+.sizebg23
+{
+	height:24px;
+	width:50px;
+	line-height: 5px;
+}
+
+.rtimg
+{
+	width:30%;
+}
+
+.scroll-my
+{
+    height: 600px;
+    overflow-y: scroll;
+    overflow-x:hidden;
+}
